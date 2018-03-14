@@ -1,0 +1,34 @@
+
+1.Fundamental Concepts of Circuit Elements 
+
+2.Circuit variables
+
+3.Electromotive  force,
+
+4. potential  and  voltage. 
+
+5. Resistors,  
+
+6. Capacitors,
+
+7. Inductors- 
+
+8. Terminal V-I relations. 
+
+9. Basic Circuit Laws: Kirchhoff's current law
+
+10. Voltage laws,
+
+11. Analysis of resistive circuits - mesh, 
+
+12. Node analysis
+
+13. Super mesh and super node analysis. 
+
+14. Norton's theorem
+
+15 Thevenin's theorem
+
+16. Superposition theorem
+
+17.Star delta transformation.
